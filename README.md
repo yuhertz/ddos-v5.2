@@ -6,8 +6,8 @@ this is the useless version of it
 
 For termux and kali linux
 ```
-git clone https://github.com/yuhertz/ddos-v5
-cd ddos-v5
+git clone https://github.com/yuhertz/ddos-v5.2
+cd ddos-v5.2
 pip install -r requirements.txt
 python3 ddos.py
 ```
